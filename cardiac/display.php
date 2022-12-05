@@ -2,7 +2,7 @@
 
 $hostname = 'cardiacdb.mysql.database.azure.com';
 $username = 'UCFCARDIAC';
-$password = 'SDProj2023';
+$password = 'SDProject2023';
 $database = 'cardiacvr';
 
 try
