@@ -1,8 +1,8 @@
 <?php
 
-$hostname = 'localhost';
-$username = 'root';
-$password = 'PoPpOp2001?';
+$hostname = 'cardiacdb.mysql.database.azure.com';
+$username = 'UCFCARDIAC';
+$password = 'UCFProject2023';
 $database = 'cardiacvr';
 
 try
